@@ -1,0 +1,2 @@
+To-Do-Feb-20
+[!] watch backbone.js videos and follow along
